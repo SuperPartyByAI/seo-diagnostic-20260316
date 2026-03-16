@@ -1,0 +1,21 @@
+{
+  "conversation_id": "7405fcac-893d-4385-8c53-c71414e0b10f",
+  "date": "2026-03-16",
+  "upload_timestamp": "2026-03-16T18:55:00+02:00",
+  "branch": "upload/conversation-20260316-7405fcac",
+  "files": [
+    {"path": "src/extrage_dovada_singura.py", "description": "GSC URL Inspection for single URL", "source": "C:\\Windows\\Temp\\extrage_dovada.py"},
+    {"path": "src/extrage_dovada_50urls.py", "description": "GSC URL Inspection for 50 URLs (sync)", "source": "C:\\Windows\\Temp\\extrage_dovada_sync.py"},
+    {"path": "src/extrage_dovada_toate_siteurile.py", "description": "GSC inspection for all URLs across 3 domains", "source": "C:\\Windows\\Temp\\extrage_mega_dovada.py"},
+    {"path": "src/gsc_submit_sitemaps.py", "description": "Submit sitemaps to GSC API for all domains", "source": "C:\\Windows\\Temp\\gsc_submit_all.py"},
+    {"path": "src/duplicate_scan.py", "description": "Duplicate content scanner for Superparty articles", "source": "C:\\Windows\\Temp\\duplicate_scan.py"},
+    {"path": "src/diagnostic_216urls.py", "description": "Full READ-ONLY diagnostic on 216 GSC URLs", "source": "C:\\Windows\\Temp\\scan_gsc_urls.py"},
+    {"path": "src/check_urls_full.py", "description": "Multi-domain diagnostic with JSON output", "source": "C:\\Windows\\Temp\\check_urls.py"},
+    {"path": "src/p0_animatopia_verify.py", "description": "P0 Animatopia verification (redirect, canonical, sitemap, robots)", "source": "C:\\Windows\\Temp\\p0_verify.py"},
+    {"path": "src/live_verification.py", "description": "Live HTTP header and canonical tag verification", "source": "C:\\Windows\\Temp\\live_verification.py"},
+    {"path": "docs/GSC_DIAGNOSTIC_216_URLS.json", "description": "Full diagnostic results for 216 Superparty URLs"},
+    {"path": "docs/urls_gsc_216.txt", "description": "List of 216 URLs from Google Search Console"}
+  ],
+  "secrets_redacted": ["GSC_SERVICE_ACCOUNT_JSON"],
+  "no_secrets_committed": true
+}

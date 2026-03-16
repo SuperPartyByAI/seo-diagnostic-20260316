@@ -1,0 +1,2496 @@
+{
+  "status": "partial",
+  "timestamp": "2026-03-16T16:34:05.925818+00:00",
+  "gsc_available": true,
+  "summary": {
+    "total": 216,
+    "http_200": 215,
+    "redirect_other": 0,
+    "missing_canonical": 1,
+    "canonical_wrong": 0,
+    "no_jsonld": 2,
+    "not_in_sitemap": 1,
+    "errors": 1,
+    "problems": [
+      {
+        "url": "https://www.superparty.ro/arie-acoperire/",
+        "issues": [
+          "missing_canonical",
+          "no_jsonld",
+          "not_in_sitemap"
+        ]
+      },
+      {
+        "url": "https://www.superparty.ro/decoratiuni-baloane",
+        "issues": [
+          "no_jsonld"
+        ]
+      },
+      {
+        "url": "https://www.superparty.ro/petreceri/superparty-echipa-animatori-profesionisti-bucuresti",
+        "issues": [
+          "http_404"
+        ]
+      }
+    ]
+  },
+  "urls": [
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-domnesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-domnesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-domnesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-09T16:58:40Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-incredibles-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-incredibles-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-incredibles-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-copaceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-copaceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-copaceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/sfaturi-ghiduri",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/sfaturi-ghiduri",
+      "canonical": "https://www.superparty.ro/petreceri/sfaturi-ghiduri",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-09T16:57:26Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-in-aer-liber-copii-bucuresti-sfaturi",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-in-aer-liber-copii-bucuresti-sfaturi",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-in-aer-liber-copii-bucuresti-sfaturi",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iasi-superparty",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iasi-superparty",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iasi-superparty",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-chiajna",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-chiajna",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-chiajna",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-09T14:57:57Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-1-decembrie",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-1-decembrie",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-1-decembrie",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-clinceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-clinceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-clinceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-baneasa",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-baneasa",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-baneasa",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-09T14:54:50Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-afumati",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-afumati",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-afumati",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-cernica",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-cernica",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-cernica",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-glina",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-glina",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-glina",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-09T13:21:27Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-afumati",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-afumati",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-afumati",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-buftea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-buftea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-buftea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-tunari",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-tunari",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-tunari",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T18:51:51Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-nuci",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-nuci",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-nuci",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-popesti-leordeni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-popesti-leordeni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-popesti-leordeni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cluj-napoca-superparty",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cluj-napoca-superparty",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cluj-napoca-superparty",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T15:00:51Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/seo-local-test-abc123",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/seo-local-test-abc123",
+      "canonical": "https://www.superparty.ro/petreceri/seo-local-test-abc123",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-clinceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-clinceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-clinceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-buftea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-buftea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-buftea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T11:48:49Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-popesti-leordeni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-popesti-leordeni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-popesti-leordeni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-buftea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-buftea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-buftea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-pantelimon",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-pantelimon",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-pantelimon",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T11:39:19Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-pantelimon",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-pantelimon",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-pantelimon",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-cornetu",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-cornetu",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-cornetu",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-balotesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-balotesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-balotesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T11:22:59Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-mulan-disney-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-mulan-disney-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-mulan-disney-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-stefanestii-de-jos",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-stefanestii-de-jos",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-stefanestii-de-jos",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/seo-local",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/seo-local",
+      "canonical": "https://www.superparty.ro/petreceri/seo-local",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T11:13:10Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bucuresti-cea-mai-buna-alegere-2025",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bucuresti-cea-mai-buna-alegere-2025",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bucuresti-cea-mai-buna-alegere-2025",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-masha-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-masha-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-masha-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-mogosoaia",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-mogosoaia",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-mogosoaia",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T01:22:10Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-baneasa",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-baneasa",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-baneasa",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-gruiu",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-gruiu",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-gruiu",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-moana-disney-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-moana-disney-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-moana-disney-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T01:20:37Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-gradistea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-gradistea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-gradistea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-bluey-keepy-uppy-copii",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-bluey-keepy-uppy-copii",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-bluey-keepy-uppy-copii",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-petrachioaia",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-petrachioaia",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-petrachioaia",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-08T01:19:55Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-snagov",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-snagov",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-snagov",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-copaceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-copaceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-copaceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-glina",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-glina",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-glina",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T19:54:31Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-petrachioaia",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-petrachioaia",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-petrachioaia",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-cernica",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-cernica",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-cernica",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-dobroesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-dobroesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-dobroesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T18:05:52Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-ganeasa",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-ganeasa",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-ganeasa",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-bluey-bingo-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-bluey-bingo-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-bluey-bingo-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-pokemon-pikachu-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-pokemon-pikachu-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-pokemon-pikachu-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T16:15:22Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-dragomiresti-vale",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-dragomiresti-vale",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-dragomiresti-vale",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-vidra",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-vidra",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-vidra",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-voluntari",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-voluntari",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-voluntari",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T15:42:22Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-among-us-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-among-us-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-among-us-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-mogosoaia",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-mogosoaia",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ursul-mogosoaia",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-1-decembrie",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-1-decembrie",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-1-decembrie",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T13:29:24Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-dragomiresti-vale",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-dragomiresti-vale",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-dragomiresti-vale",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cotroceni-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cotroceni-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cotroceni-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-cornetu",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-cornetu",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-cornetu",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T11:43:50Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/baloane-decoratiuni-botez-bucuresti-idei-2025",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/baloane-decoratiuni-botez-bucuresti-idei-2025",
+      "canonical": "https://www.superparty.ro/petreceri/baloane-decoratiuni-botez-bucuresti-idei-2025",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-dragon-verde-mascota-petreceri-copii",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-dragon-verde-mascota-petreceri-copii",
+      "canonical": "https://www.superparty.ro/petreceri/animator-dragon-verde-mascota-petreceri-copii",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-flamingo-tropical-fetite-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-flamingo-tropical-fetite-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-flamingo-tropical-fetite-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T05:18:09Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/sala-vs-acasa-petrecere-copil-bucuresti-comparatie",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/sala-vs-acasa-petrecere-copil-bucuresti-comparatie",
+      "canonical": "https://www.superparty.ro/petreceri/sala-vs-acasa-petrecere-copil-bucuresti-comparatie",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-ganeasa",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-ganeasa",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-ganeasa",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-gradistea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-gradistea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-gradistea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T05:18:02Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-copaceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-copaceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-copaceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-jilava",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-jilava",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-jilava",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-masha-vidra",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-masha-vidra",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-masha-vidra",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T05:17:50Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/tot-ce-trebuie-sa-stii-angajare-animator-costumat",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/tot-ce-trebuie-sa-stii-angajare-animator-costumat",
+      "canonical": "https://www.superparty.ro/petreceri/tot-ce-trebuie-sa-stii-angajare-animator-costumat",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-moara-vlasiei",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-moara-vlasiei",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-moara-vlasiei",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rahova-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rahova-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rahova-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T05:17:44Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-stitch-disney-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-stitch-disney-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-stitch-disney-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-otopeni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-otopeni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-otopeni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-elsa-anna-frozen-impreuna-petreceri-copii",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-elsa-anna-frozen-impreuna-petreceri-copii",
+      "canonical": "https://www.superparty.ro/petreceri/animator-elsa-anna-frozen-impreuna-petreceri-copii",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T05:17:34Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-nemo-dory-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-nemo-dory-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-nemo-dory-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-craciun-copii-mos-craciun-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-craciun-copii-mos-craciun-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-craciun-copii-mos-craciun-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-voluntari",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-voluntari",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-voluntari",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-07T03:01:01Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-dobroesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-dobroesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-dobroesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-gruiu",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-gruiu",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-gruiu",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-tunari",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-tunari",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-tunari",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-06T15:42:44Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-1-decembrie",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-1-decembrie",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-1-decembrie",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-nuci",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-nuci",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-nuci",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-gradistea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-gradistea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-gradistea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T21:49:49Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-moara-vlasiei",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-moara-vlasiei",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-moara-vlasiei",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-vidra",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-vidra",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-vidra",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/personaje-costume",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/personaje-costume",
+      "canonical": "https://www.superparty.ro/petreceri/personaje-costume",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T20:08:01Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-ganeasa",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-ganeasa",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-ganeasa",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-petrachioaia",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-petrachioaia",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-petrachioaia",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-sector-6",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-sector-6",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-sector-6",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T20:04:45Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-corbeanca",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-corbeanca",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-corbeanca",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-ganeasa",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-ganeasa",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-ganeasa",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-moara-vlasiei",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-moara-vlasiei",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-moara-vlasiei",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T19:59:33Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-berceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-berceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-berceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-balotesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-balotesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-balotesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-bragadiru",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-bragadiru",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-bragadiru",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T19:55:56Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-peris",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-peris",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-peris",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-minion-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-minion-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-minion-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-ciolpani",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-ciolpani",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-ciolpani",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T19:14:00Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-buftea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-buftea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-buftea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-snagov",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-snagov",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-snagov",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-sala-vs-acasa-bucuresti-comparatie",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-sala-vs-acasa-bucuresti-comparatie",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-sala-vs-acasa-bucuresti-comparatie",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T15:39:23Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/idei-petrecere-copil-7-ani-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/idei-petrecere-copil-7-ani-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/idei-petrecere-copil-7-ani-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-branesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-branesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-branesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-balotesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-balotesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-balotesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T14:59:14Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/decoratiuni-baloane",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/decoratiuni-baloane",
+      "canonical": "https://www.superparty.ro/decoratiuni-baloane",
+      "json_ld": false,
+      "in_sitemap": true,
+      "issues": [
+        "no_jsonld"
+      ],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-chitila",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-chitila",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-chitila",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-petrachioaia",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-petrachioaia",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-petrachioaia",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T14:06:22Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-peris",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-peris",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-peris",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-gradistea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-gradistea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-gradistea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-botez-cu-animatori-bucuresti-ghid",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-botez-cu-animatori-bucuresti-ghid",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-botez-cu-animatori-bucuresti-ghid",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T13:48:11Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-1-decembrie",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-1-decembrie",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-1-decembrie",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-jilava",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-jilava",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-jilava",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-winx-club-stella-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-winx-club-stella-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-winx-club-stella-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T12:10:12Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-gradistea",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-gradistea",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-gradistea",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-gekko-pj-masks-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-gekko-pj-masks-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-gekko-pj-masks-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-popesti-leordeni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-popesti-leordeni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-popesti-leordeni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:36:05Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-rainbow-dash-my-little-pony-petreceri-copii",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-rainbow-dash-my-little-pony-petreceri-copii",
+      "canonical": "https://www.superparty.ro/petreceri/animator-rainbow-dash-my-little-pony-petreceri-copii",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-moara-vlasiei",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-moara-vlasiei",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-moara-vlasiei",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-trolls-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-trolls-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-trolls-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:35:57Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-dascalu",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-dascalu",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-dascalu",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-tunari",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-tunari",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-tunari",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-sector-1",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-sector-1",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-cenusareasa-sector-1",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:35:49Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-berceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-berceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-berceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-frozen-elsa-ana-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-frozen-elsa-ana-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-frozen-elsa-ana-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-stefanestii-de-jos",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-stefanestii-de-jos",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-stefanestii-de-jos",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:35:42Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-lego-baieti-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-lego-baieti-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-lego-baieti-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-superman-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-superman-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-superman-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/baloane-cu-heliu-petreceri-copii-bucuresti-2025",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/baloane-cu-heliu-petreceri-copii-bucuresti-2025",
+      "canonical": "https://www.superparty.ro/petreceri/baloane-cu-heliu-petreceri-copii-bucuresti-2025",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:13:51Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-titan-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-titan-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-titan-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-sector-1",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-sector-1",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-sector-1",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/cum-alegi-animator-bun-petrecere-copil-ghid-2025",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/cum-alegi-animator-bun-petrecere-copil-ghid-2025",
+      "canonical": "https://www.superparty.ro/petreceri/cum-alegi-animator-bun-petrecere-copil-ghid-2025",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:13:42Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-vidra",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-vidra",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-vidra",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-chef-bucatar-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-chef-bucatar-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-chef-bucatar-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-woody-toy-story-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-woody-toy-story-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-woody-toy-story-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:12:36Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-fotbal-baieti-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-fotbal-baieti-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-fotbal-baieti-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-nuci",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-nuci",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-nuci",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ghencea-sector-6-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ghencea-sector-6-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ghencea-sector-6-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:12:15Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-nuci",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-nuci",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-nuci",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-peppa-pig-copii-mici-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-peppa-pig-copii-mici-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-peppa-pig-copii-mici-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sector-1-aviatiei-dorobanti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sector-1-aviatiei-dorobanti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sector-1-aviatiei-dorobanti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:11:36Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-jilava",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-jilava",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-jilava",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-sector-2",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-sector-2",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-sector-2",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pipera-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pipera-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pipera-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:06:33Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/arie-acoperire/",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/arie-acoperire",
+      "canonical": null,
+      "json_ld": false,
+      "in_sitemap": false,
+      "issues": [
+        "missing_canonical",
+        "no_jsonld",
+        "not_in_sitemap"
+      ],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-halloween-copii-bucuresti-2025",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-halloween-copii-bucuresti-2025",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-halloween-copii-bucuresti-2025",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/greseli-frecvente-organizare-petreceri-copii",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/greseli-frecvente-organizare-petreceri-copii",
+      "canonical": "https://www.superparty.ro/petreceri/greseli-frecvente-organizare-petreceri-copii",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:06:23Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-sector-1",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-sector-1",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-sector-1",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-dragomiresti-vale",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-dragomiresti-vale",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-dragomiresti-vale",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-chiajna",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-chiajna",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-chiajna",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:05:59Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-branesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-branesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-branesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-baneasa-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-baneasa-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-baneasa-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-hulk-avengers-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-hulk-avengers-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-hulk-avengers-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:05:21Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-corbeanca",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-corbeanca",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-spider-man-corbeanca",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-voluntari",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-voluntari",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-voluntari",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-toy-story-pixar-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-toy-story-pixar-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-toy-story-pixar-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:04:53Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-voluntari",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-voluntari",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-voluntari",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/arcade-baloane-petreceri-copii-bucuresti-preturi",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/arcade-baloane-petreceri-copii-bucuresti-preturi",
+      "canonical": "https://www.superparty.ro/petreceri/arcade-baloane-petreceri-copii-bucuresti-preturi",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-scooby-doo-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-scooby-doo-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-scooby-doo-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:04:32Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-dinosauri-jurassic-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-dinosauri-jurassic-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-dinosauri-jurassic-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-domnesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-domnesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-domnesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-clinceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-clinceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-clinceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:03:46Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-cernica",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-cernica",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-cernica",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-copaceni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-copaceni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-copaceni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/idei-petrecere-copil-4-ani-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/idei-petrecere-copil-4-ani-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/idei-petrecere-copil-4-ani-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:03:25Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-gruiu",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-gruiu",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-gruiu",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-jungle-safari-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-jungle-safari-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-jungle-safari-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/idei-cadouri-goodie-bags-petrecere-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/idei-cadouri-goodie-bags-petrecere-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/idei-cadouri-goodie-bags-petrecere-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:02:57Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-sector-2",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-sector-2",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-sector-2",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-nuci",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-nuci",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-nuci",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-otopeni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-otopeni",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-otopeni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T11:01:25Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-snagov",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-snagov",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-snagov",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-corbeanca",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-corbeanca",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-corbeanca",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-ninja-baieti-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-ninja-baieti-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-ninja-baieti-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T10:17:25Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-cornetu",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-cornetu",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-cornetu",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-6",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-6",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-6",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-tunari",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-tunari",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-mickey-mouse-tunari",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T08:23:19Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-baneasa",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-baneasa",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-bumblebee-baneasa",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-jilava",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-jilava",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-jilava",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-sector-5",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-sector-5",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-sector-5",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T06:47:43Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/diplome-premii-petreceri-copii-idei",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/diplome-premii-petreceri-copii-idei",
+      "canonical": "https://www.superparty.ro/petreceri/diplome-premii-petreceri-copii-idei",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-petrachioaia",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-petrachioaia",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-minnie-mouse-petrachioaia",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-barbie-fetite-bucuresti-2025",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-barbie-fetite-bucuresti-2025",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-barbie-fetite-bucuresti-2025",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T06:03:47Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/idei-petrecere-copil-5-ani-bucuresti-2025",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/idei-petrecere-copil-5-ani-bucuresti-2025",
+      "canonical": "https://www.superparty.ro/petreceri/idei-petrecere-copil-5-ani-bucuresti-2025",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-mogosoaia",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-mogosoaia",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-elsa-mogosoaia",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-3",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-3",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-3",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-05T00:39:36Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-ciorogarla",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-ciorogarla",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-ciorogarla",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-snagov",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-snagov",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-snagov",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-dragomiresti-vale",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-dragomiresti-vale",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-iron-man-dragomiresti-vale",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T21:25:45Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-vanatoare-comori-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-vanatoare-comori-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-vanatoare-comori-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-peter-pan-niciodata-tara-petreceri-copii",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-peter-pan-niciodata-tara-petreceri-copii",
+      "canonical": "https://www.superparty.ro/petreceri/animator-peter-pan-niciodata-tara-petreceri-copii",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-ciolpani",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-ciolpani",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-miraculous-ladybug-ciolpani",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T21:21:17Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-peter-pan-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-peter-pan-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-peter-pan-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-baneasa",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-baneasa",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-skye-paw-patrol-baneasa",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-snagov",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-snagov",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-pirati-snagov",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T20:54:20Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-dascalu",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-dascalu",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-dascalu",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-chiajna",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-chiajna",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-captain-america-chiajna",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/faq-animatori-petreceri-copii-bucuresti-intrebari-frecvente",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/faq-animatori-petreceri-copii-bucuresti-intrebari-frecvente",
+      "canonical": "https://www.superparty.ro/petreceri/faq-animatori-petreceri-copii-bucuresti-intrebari-frecvente",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T20:47:30Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-drumul-taberei-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-drumul-taberei-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-drumul-taberei-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-sector-2",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-sector-2",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-sector-2",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animator-aladin-petreceri-copii-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animator-aladin-petreceri-copii-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animator-aladin-petreceri-copii-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T20:23:46Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-dragomiresti-vale",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-dragomiresti-vale",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-chase-paw-patrol-dragomiresti-vale",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-branesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-branesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-batman-branesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-sector-4",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-sector-4",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-sector-4",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T20:01:37Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-moara-vlasiei",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-moara-vlasiei",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-marshall-paw-patrol-moara-vlasiei",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-sector-4",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-sector-4",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-alba-ca-zapada-sector-4",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ferentari-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ferentari-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ferentari-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T19:18:59Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-5",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-5",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-rapunzel-sector-5",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-branesti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-branesti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-sonic-branesti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/rezervare-animatori-petreceri-din-timp-importanta",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/rezervare-animatori-petreceri-din-timp-importanta",
+      "canonical": "https://www.superparty.ro/petreceri/rezervare-animatori-petreceri-din-timp-importanta",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T18:47:48Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/fotografii-petrecere-copii-cum-capturezi-cei-mai-buni",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/fotografii-petrecere-copii-cum-capturezi-cei-mai-buni",
+      "canonical": "https://www.superparty.ro/petreceri/fotografii-petrecere-copii-cum-capturezi-cei-mai-buni",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/superparty-echipa-animatori-profesionisti-bucuresti",
+      "status": 404,
+      "final_url": null,
+      "canonical": null,
+      "json_ld": false,
+      "in_sitemap": false,
+      "issues": [
+        "http_404"
+      ],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-colentina-sector-2",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-colentina-sector-2",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-colentina-sector-2",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T17:57:10Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-corbeanca",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-corbeanca",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-ariel-corbeanca",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/idei-petrecere-copil-6-ani-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/idei-petrecere-copil-6-ani-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/idei-petrecere-copil-6-ani-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/cum-alegi-sala-petrecere-copii-bucuresti-ghid-2025",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/cum-alegi-sala-petrecere-copii-bucuresti-ghid-2025",
+      "canonical": "https://www.superparty.ro/petreceri/cum-alegi-sala-petrecere-copii-bucuresti-ghid-2025",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": {
+        "coverage": "Dublură fără pagina canonică selectată de utilizator",
+        "crawl": "2026-03-04T17:46:56Z",
+        "verdict": "NEUTRAL"
+      }
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/petrecere-tematica-peter-pan-neverland-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/petrecere-tematica-peter-pan-neverland-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/petrecere-tematica-peter-pan-neverland-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    },
+    {
+      "url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-berceni-sector-4-bucuresti",
+      "status": 200,
+      "final_url": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-berceni-sector-4-bucuresti",
+      "canonical": "https://www.superparty.ro/petreceri/animatori-petreceri-copii-berceni-sector-4-bucuresti",
+      "json_ld": true,
+      "in_sitemap": true,
+      "issues": [],
+      "gsc": null
+    }
+  ],
+  "no_changes_made": true
+}
