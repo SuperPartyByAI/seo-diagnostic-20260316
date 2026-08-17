@@ -1,7 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import process from "node:process";
-import { chromium } from "playwright";
+import { createRequire } from "node:module";
+
+const require = createRequire("/opt/logicasimatematica-site/package.json");
+const { chromium } = require("playwright");
 
 const baseURL = process.env.LM_GA4_BASE_URL || "http://127.0.0.1:43991";
 const outputDir = process.env.LM_GA4_EVIDENCE_DIR || process.cwd();
@@ -52,11 +55,13 @@ async function exercise(viewport, label) {
     fullPage: true,
   });
 
+  const tagRequest = page.waitForRequest(
+    (request) => request.url().includes(`googletagmanager.com/gtag/js?id=${expectedId}`),
+    { timeout: 30000 },
+  ).catch(() => null);
   await page.locator('[data-lm-consent="granted"]').click();
   await page.waitForFunction(() => window.localStorage.getItem("lm_analytics_consent_v1")?.includes("granted"));
-  await page.waitForRequest((request) => request.url().includes(`googletagmanager.com/gtag/js?id=${expectedId}`), {
-    timeout: 30000,
-  }).catch(() => null);
+  await tagRequest;
   await page.waitForTimeout(2500);
 
   const scriptCount = await page.locator(`script[data-lm-ga4="${expectedId}"]`).count();
