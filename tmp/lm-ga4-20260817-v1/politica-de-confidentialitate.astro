@@ -1,0 +1,164 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const title = "Politica de confidențialitate și cookie-uri | Logică și Matematică";
+const description =
+  "Cum folosește LogicaSiMatematica.ro Google Analytics 4, Consent Mode și preferințele cookie, fără a trimite conținutul formularelor.";
+---
+
+<Layout
+  title={title}
+  description={description}
+  canonical="https://logicasimatematica.ro/politica-de-confidentialitate/"
+  robots="index,follow"
+>
+  <main class="lm-privacy-page">
+    <article>
+      <p class="lm-privacy-kicker">CONFIDENȚIALITATE · VERSIUNEA 17 AUGUST 2026</p>
+      <h1>Politica de confidențialitate și cookie-uri</h1>
+      <p class="lm-privacy-lead">
+        Această pagină explică ce date tehnice poate măsura LogicaSiMatematica.ro,
+        în ce scop și cum poți accepta, refuza sau retrage acordul pentru Google Analytics 4.
+      </p>
+
+      <h2>Cine administrează site-ul</h2>
+      <p>
+        Site-ul prezintă serviciile Logică și Matematică din Șoseaua Berceni 104,
+        clădirea ICPET, etajul 9, Sector 4, București. Pentru întrebări despre datele
+        tale poți folosi <a href="/contact/">pagina de contact</a> sau numărul
+        <a href="tel:0722816161">0722 81 61 61</a>.
+      </p>
+
+      <h2>Google Analytics 4</h2>
+      <p>
+        Folosim proprietatea Google Analytics 4 dedicată Logică și Matematică pentru
+        a înțelege, numai după acordul tău, ce pagini sunt consultate și ce acțiuni
+        generale sunt utile: afișări de pagină, derulări, clicuri pe telefon,
+        WhatsApp, contact și solicitări.
+      </p>
+      <p>
+        Nu trimitem către Google conținutul câmpurilor completate, numele, adresa
+        de e-mail, mesajul, numărul de telefon introdus de vizitator sau conținutul
+        conversațiilor. Parametrii evenimentelor sunt limitați la denumirea
+        generală a acțiunii, pagina și poziția butonului.
+      </p>
+
+      <h2>Consimțământ și stocare</h2>
+      <p>
+        La prima vizită, stocarea Analytics este refuzată implicit. Eticheta Google
+        Analytics nu este încărcată până când alegi „Acceptă măsurarea”. Publicitatea,
+        personalizarea reclamelor și utilizarea datelor pentru publicitate rămân
+        dezactivate chiar dacă accepți măsurarea Analytics.
+      </p>
+      <p>
+        Alegerea ta este păstrată local în browser, în
+        <code>localStorage</code>, sub cheia <code>lm_analytics_consent_v1</code>.
+        Această preferință este necesară pentru a nu afișa din nou aceeași întrebare
+        la fiecare pagină.
+      </p>
+
+      <h2>Cookie-uri Analytics</h2>
+      <p>
+        După acord, Google Analytics poate seta cookie-uri primare precum
+        <code>_ga</code> și variante asociate proprietății, pentru a diferenția
+        vizitele și sesiunile. Dacă retragi acordul din butonul „Setări cookie”,
+        stocarea Analytics este dezactivată și site-ul încearcă să elimine aceste
+        cookie-uri de pe domeniul propriu.
+      </p>
+
+      <h2>Temei și scop</h2>
+      <p>
+        Măsurarea Analytics se bazează pe consimțământul tău. Scopul este îmbunătățirea
+        structurii site-ului, a informațiilor educaționale și a traseelor de contact,
+        nu profilarea publicitară.
+      </p>
+
+      <h2>Date tehnice și destinatari</h2>
+      <p>
+        După acord pot fi procesate informații tehnice despre pagină, browser,
+        dispozitiv, sursa vizitei, regiune aproximativă și interacțiuni generale.
+        Furnizorul serviciului este Google. Pentru detalii despre practicile Google,
+        consultă
+        <a href="https://policies.google.com/privacy" rel="noopener noreferrer">
+          politica de confidențialitate Google
+        </a>.
+      </p>
+
+      <h2>Perioada de păstrare</h2>
+      <p>
+        Datele la nivel de utilizator și eveniment din proprietatea Analytics sunt
+        configurate pentru o perioadă de păstrare de maximum 14 luni, în măsura în
+        care setarea se aplică tipului respectiv de raport. Rapoartele agregate pot
+        fi disponibile conform funcționării Google Analytics.
+      </p>
+
+      <h2>Drepturile tale</h2>
+      <p>
+        Poți refuza măsurarea de la prima vizită sau o poți retrage ulterior prin
+        butonul „Setări cookie”. Poți solicita informații, corectarea ori ștergerea
+        datelor care pot fi asociate în mod rezonabil unei solicitări și poți formula
+        o plângere către autoritatea competentă pentru protecția datelor.
+      </p>
+
+      <h2>Modificări</h2>
+      <p>
+        Actualizăm această pagină când se schimbă instrumentele, scopurile sau
+        configurarea. Data versiunii este afișată în partea de sus.
+      </p>
+    </article>
+  </main>
+</Layout>
+
+<style>
+  .lm-privacy-page {
+    padding: 7rem 1rem 4rem;
+    background: #f6f9fc;
+  }
+
+  .lm-privacy-page article {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: clamp(1.4rem, 4vw, 3rem);
+    background: #fff;
+    border: 1px solid rgba(16, 36, 61, 0.12);
+    border-radius: 24px;
+    box-shadow: 0 18px 50px rgba(16, 36, 61, 0.1);
+  }
+
+  .lm-privacy-kicker {
+    color: #075aa8;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+  }
+
+  .lm-privacy-page h1 {
+    margin: 0.5rem 0 1rem;
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    line-height: 1.08;
+  }
+
+  .lm-privacy-lead {
+    font-size: 1.12rem;
+  }
+
+  .lm-privacy-page h2 {
+    margin-top: 2rem;
+    color: #17324f;
+  }
+
+  .lm-privacy-page p {
+    color: #344a62;
+    line-height: 1.75;
+  }
+
+  .lm-privacy-page a {
+    color: #075aa8;
+    font-weight: 700;
+  }
+
+  .lm-privacy-page code {
+    padding: 0.1em 0.35em;
+    background: #eef4fa;
+    border-radius: 5px;
+  }
+</style>
