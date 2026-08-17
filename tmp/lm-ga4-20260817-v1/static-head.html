@@ -1,0 +1,127 @@
+<!-- LM-GA4-CONSENT-V1 -->
+<script>
+  const measurementId = "G-4C4JFDT4F2";
+  (() => {
+    const STORAGE_KEY = "lm_analytics_consent_v1";
+    const CONSENT_VERSION = 1;
+    const GOOGLE_TAG_ID = measurementId;
+    const validChoices = new Set(["granted", "denied"]);
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function gtag() {
+      window.dataLayer.push(arguments);
+    };
+
+    window.gtag("consent", "default", {
+      ad_storage: "denied",
+      ad_user_data: "denied",
+      ad_personalization: "denied",
+      analytics_storage: "denied",
+      wait_for_update: 500,
+    });
+    window.gtag("set", "ads_data_redaction", true);
+    window.gtag("set", "url_passthrough", false);
+
+    const readChoice = () => {
+      try {
+        const raw = window.localStorage.getItem(STORAGE_KEY);
+        if (!raw) return null;
+        const parsed = JSON.parse(raw);
+        if (
+          parsed &&
+          parsed.version === CONSENT_VERSION &&
+          validChoices.has(parsed.analytics)
+        ) {
+          return parsed.analytics;
+        }
+      } catch {
+        return null;
+      }
+      return null;
+    };
+
+    const persistChoice = (choice) => {
+      try {
+        window.localStorage.setItem(
+          STORAGE_KEY,
+          JSON.stringify({
+            version: CONSENT_VERSION,
+            analytics: choice,
+            updated_at: new Date().toISOString(),
+          }),
+        );
+      } catch {
+        // Consent still applies to the current page when storage is unavailable.
+      }
+    };
+
+    const expireCookie = (name, domain) => {
+      const domainPart = domain ? `;domain=${domain}` : "";
+      document.cookie =
+        `${name}=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/${domainPart};SameSite=Lax`;
+    };
+
+    const removeAnalyticsCookies = () => {
+      const host = window.location.hostname;
+      const domains = ["", host, `.${host}`];
+      document.cookie
+        .split(";")
+        .map((cookie) => cookie.split("=")[0].trim())
+        .filter((name) => name === "_gid" || name.startsWith("_ga"))
+        .forEach((name) => domains.forEach((domain) => expireCookie(name, domain)));
+    };
+
+    let googleTagLoaded = false;
+    const loadGoogleTag = () => {
+      if (googleTagLoaded || document.querySelector(`script[data-lm-ga4="${GOOGLE_TAG_ID}"]`)) {
+        googleTagLoaded = true;
+        return;
+      }
+
+      googleTagLoaded = true;
+      const script = document.createElement("script");
+      script.async = true;
+      script.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(GOOGLE_TAG_ID)}`;
+      script.dataset.lmGa4 = GOOGLE_TAG_ID;
+      document.head.appendChild(script);
+
+      window.gtag("js", new Date());
+      window.gtag("config", GOOGLE_TAG_ID, {
+        send_page_view: true,
+        allow_google_signals: false,
+        allow_ad_personalization_signals: false,
+        cookie_flags: "SameSite=Lax;Secure",
+        debug_mode: new URLSearchParams(window.location.search).has("ga4_debug"),
+      });
+    };
+
+    const applyChoice = (choice, persist = false) => {
+      const granted = choice === "granted";
+      window.gtag("consent", "update", {
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        analytics_storage: granted ? "granted" : "denied",
+      });
+      if (persist) persistChoice(choice);
+      if (granted) loadGoogleTag();
+      else if (persist) removeAnalyticsCookies();
+      window.dispatchEvent(
+        new CustomEvent("lm:analytics-consent", { detail: { analytics: choice } }),
+      );
+    };
+
+    const initialChoice = readChoice();
+    if (initialChoice === "granted") applyChoice("granted");
+
+    window.__lmAnalytics = {
+      measurementId: GOOGLE_TAG_ID,
+      getChoice: readChoice,
+      isGranted: () => readChoice() === "granted",
+      setChoice: (choice) => {
+        if (!validChoices.has(choice)) return;
+        applyChoice(choice, true);
+      },
+    };
+  })();
+</script>
